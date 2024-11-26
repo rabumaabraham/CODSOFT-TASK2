@@ -1,6 +1,6 @@
-# Calculator Application
+# Calculator CLI Application
 
-This is a fully functional Calculator Application built using python, during my python programming internship at CodSoft. This simple Calculator application allows users to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division. The application prompts the user to input two numbers and an operation, and then calculates and displays the result.
+This is a fully functional Calculator CLI Application built using python, during my python programming internship at CodSoft. This simple Calculator CLI Application allows users to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division. The application prompts the user to input two numbers and an operation, and then calculates and displays the result.
 
 ## Table of Contents
 
